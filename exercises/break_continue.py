@@ -6,7 +6,7 @@ def skip_multiples_of_three(n):
     - n: 正整数上限
     
     返回:
-    - 从1到n中所有不是3的倍数的整数列表
+    - 从1到n中所有不是3的倍数的整数列
     """
     result = []
     for i in range(1, n+1):
